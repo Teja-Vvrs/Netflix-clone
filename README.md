@@ -1,2 +1,2 @@
 # Netflix-clone
-Only html and css
+Only using html and css
